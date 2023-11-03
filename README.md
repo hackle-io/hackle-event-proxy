@@ -1,5 +1,5 @@
 # Nginx Proxy for Hackle
-An examples of nginx configuration that serves as a proxy for Hackle's event tracking endpoints.
+An example of nginx configuration that serves as a proxy for Hackle's event tracking endpoints.
 
 ## Getting Started
 
