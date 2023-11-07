@@ -9,7 +9,7 @@ An example of nginx configuration that serves as a proxy for Hackle's event trac
 
 2. Build Docker image
 
-   `docker build -t hackle-event-proxy`
+   `docker build -t hackle-event-proxy .`
 
 3. Run container
 
