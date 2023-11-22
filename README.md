@@ -19,7 +19,7 @@ An example of nginx configuration that serves as a proxy for Hackle's event trac
 
     `http://localhost:8080`
 
-Yo should see:
+You should see:
 ```
 Hello, Hackle!
 ```
