@@ -17,11 +17,11 @@ An example of nginx configuration that serves as a proxy for Hackle's event trac
 
 4. Visit 
 
-    `http://localhost:8080`
+    `http://localhost:8080/hello`
 
 You should see:
 ```
 Hello, Hackle!
 ```
-This is same response you would get from visiting https://event.hackle.io/ (which means your proxy is working as expected).
+This is same response you would get from visiting https://event.hackle.io/hello (which means your proxy is working as expected).
 
